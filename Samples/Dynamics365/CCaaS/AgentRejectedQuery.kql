@@ -1,0 +1,7 @@
+traces  
+| extend customDim = parse_json(customDimensions)  
+| extend workItem = tostring(customDim["powerplatform.analytics.resource.id"])  
+| extend subscenario = tostring(customDim["powerplatform.analytics.subscenario"])  
+| extend Omnichanneltime = tostring(customDim["omnichannel.timestamp"])  
+// | where subscenario contains "Classification"  
+| project timestamp, workItem, subscenario, customDim, Omnichanneltime
