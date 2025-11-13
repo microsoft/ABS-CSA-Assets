@@ -1,5 +1,5 @@
 baseURL = "http://localhost"
-title = "Power Platform & Dynamics 365 Cloud Solution Architect Assets"
+title = "AI Business Solutions Cloud Solution Architect Assets"
 theme = "hugo-geekdoc"
 themesDir = "docs/themes"
 
