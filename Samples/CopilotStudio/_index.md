@@ -9,10 +9,20 @@ geekdocCollapseSection: true
 Welcome to the Microsoft Copilot Studio Samples repo
 
 # Copilot Studio Sample Directory
-[Power Assessment Tool](https://github.com/aliyoussefi/PowerAssessmentTool)
 
-[Solution Observability Agent](https://github.com/aliyoussefi/SolutionObservabilityAgent)
+## Dataverse Monitoring Agent
+[Solution File](https://github.com/aliyoussefi/DataverseMonitoringAgent/releases)
 
-[Agent Documentation Automation](https://github.com/aliyoussefi/AgentDocumentationAutomation)
+[Source Code and Documentation](https://github.com/aliyoussefi/DataverseMonitoringAgent)
 
-[Anomaly Agent](https://github.com/aliyoussefi/AnomalyAgent)
+![](https://github.com/aliyoussefi/DataverseMonitoringAgent/blob/main/img/Overview.png?raw=true)
+
+## Power Assessment Tool
+[Power Assessment Tool - Coming Soon](https://github.com/aliyoussefi/PowerAssessmentTool)
+
+## Solution Observatbility Agent
+[Solution Observability Agent - Coming Soon](https://github.com/aliyoussefi/SolutionObservabilityAgent)
+
+
+## Agent Documentation Automation
+[Agent Documentation Automation - Coming Soon](https://github.com/aliyoussefi/AgentDocumentationAutomation)
