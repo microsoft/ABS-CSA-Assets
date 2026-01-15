@@ -13,7 +13,7 @@ We are always interested and willing to help the community! Please use [the Issu
 # Official Service Offerings
 [Power Platform and Dynamics 365 CE Service Offerings](https://pfedynamics.wordpress.com/2023/09/26/power-platform-and-dynamics-365-service-offerings/)
 
-[Dynamics 365 FO Service Offerings](https://pfedynamics.wordpress.com/2024/04/02/dynamics-365-finance-supply-chain-management-scm-service-offerings/)
+[Dynamics 365 F&SCM Service Offerings](https://pfedynamics.wordpress.com/2024/04/02/dynamics-365-finance-supply-chain-management-scm-service-offerings/)
 
 # Author Directory
 
